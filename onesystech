@@ -9726,6 +9726,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkyRTVZalJqTVdRdE5qQXlPQzAwWTJSaExUbGpaV0V0TmpSaU9EVXdOekE1T1dKaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyODAzMjU1MiwiaWF0IjoxNzI3NDI4NTUyfQ.GgJYezgwFzsgJuMu36qtMswU-IfuS4UgriAHAof4n3E"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="SPORTS",Astro Arena Bola
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+  
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" ch-number="803" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="SPORTS",Astro Arena Bola (Backup Channel 1)
+#http://31.42.187.37:25461/watchpad13155/1234/4648
+
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" ch-number="803" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="SPORTS",Astro Arena Bola (Backup Channel 2)
+#http://31.42.187.37:25461/watchpad13155/1234/11483
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkyRTVZalJqTVdRdE5qQXlPQzAwWTJSaExUbGpaV0V0TmpSaU9EVXdOekE1T1dKaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyODAzMjU1MiwiaWF0IjoxNzI3NDI4NTUyfQ.GgJYezgwFzsgJuMu36qtMswU-IfuS4UgriAHAof4n3E"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="SPORTS",Astro Arena Bola 2
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
