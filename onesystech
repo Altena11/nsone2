@@ -9832,13 +9832,7 @@ https://d2e27gsr9y6c4h.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617
 
 
 
-#EXTINF:-1 tvg-id="AOTGLive1" ch-number="796" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",796 Astro Supersport
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+
 
 
 
